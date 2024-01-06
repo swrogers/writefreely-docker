@@ -15,7 +15,7 @@ The way that it works is pretty simple. It will just clone and build writefreely
 Clone the repository:
 
 ``` sh
-git clone https://github.com/karlprieb/writefreely-docker.git
+git clone https://github.com/swrogers/writefreely-docker.git
 ```
 
 Edit `.env` file so you can:
